@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "Budget": 997,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "CeraVe Hydrating Facial Cleanser"
+    },
+    {
+      "Budget": 1050,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "The Ordinary Hyaluronic Acid"
+    },
+    {
+      "Budget": 875,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "Neutrogena Hydro Boost Gel Cream"
+    },
+    {
+      "Budget": 925,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "The Ordinary Niacinamide 10% + Zinc 1%"
+    },
+    {
+      "Budget": 2330,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "Sun Bum Face Lotion SPF 50"
+    },
+    {
+      "Budget": 1750,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "The Inkey List Hyaluronic Acid Serum"
+    },
+    {
+      "Budget": 3175,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "La Roche-Posay Toleriane Ultra Moisturizing Cream"
+    },
+    {
+      "Budget": 1399,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "Olay Night Cream: Regenerist Retinol 24 Moisturiser"
+    },
+    {
+      "Budget": 9194,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "Paula's Choice Resist Anti-Aging Eye Cream"
+    },
+    {
+      "Budget": 1488,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "The Inkey List Tranexamic Acid Hyperpigmentation Treatment"
+    },
+    {
+      "Budget": 553,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "Cetaphil Gentle Skin Cleanser"
+    },
+    {
+      "Budget": 950,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "The Ordinary Glycolic Acid 7% Toning Solution"
+    },
+    {
+      "Budget": 3299,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "La Roche-Posay Anthelios 50 Mineral"
+    },
+    {
+      "Budget": 1529,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "Olay Regenerist Micro-Sculpting Cream"
+    },
+    {
+      "Budget": 3070,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Spots",
+      "Product Suggestion": "Neutrogena Rapid Wrinkle Repair Eye Cream"
+    },
+    {
+      "Budget": 997,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "CeraVe Hydrating Facial Cleanser"
+    },
+    {
+      "Budget": 2240,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "The Ordinary Alpha Arbutin 2% + HA"
+    },
+    {
+      "Budget": 875,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "Neutrogena Hydro Boost Gel Cream"
+    },
+    {
+      "Budget": 2999,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "La Roche-Posay Anthelios Mineral Sunscreen"
+    },
+    {
+      "Budget": 750,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "The Ordinary AHA 30% + BHA 2% Peeling Solution"
+    },
+    {
+      "Budget": 950,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "The Ordinary Glycolic Acid 7% Toning Solution"
+    },
+    {
+      "Budget": 1750,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "The Inkey List Hyaluronic Acid Serum"
+    },
+    {
+      "Budget": 925,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "The Ordinary Niacinamide 10% + Zinc 1%"
+    },
+    {
+      "Budget": 1970,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "CeraVe Moisturizing Cream"
+    },
+    {
+      "Budget": 2591,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "La Roche-Posay Toleriane Hydrating Gentle Cleanser"
+    },
+    {
+      "Budget": 3443,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "Sun Bum Mineral Face Sunscreen Lotion SPF 30"
+    },
+    {
+      "Budget": 1850,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "The Inkey List Bakuchiol"
+    },
+    {
+      "Budget": 1449,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "Cosrx Advanced Snail 96 Mucin Power Essence"
+    },
+    {
+      "Budget": 492,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Dry Skin",
+      "Product Suggestion": "Cetaphil Daily Hydrating Lotion"
+    },
+    {
+      "Budget": 997,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "CeraVe Hydrating Facial Cleanser"
+    },
+    {
+      "Budget": 950,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "The Ordinary Glycolic Acid 7% Toning Solution"
+    },
+    {
+      "Budget": 1750,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "The Inkey List Hyaluronic Acid Serum"
+    },
+    {
+      "Budget": 925,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "The Ordinary Niacinamide 10%"
+    },
+    {
+      "Budget": 3175,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "La Roche-Posay Toleriane Ultra Moisturizing Cream"
+    },
+    {
+      "Budget": 1050,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "The Ordinary Hyaluronic Acid 2%"
+    },
+    {
+      "Budget": 1200,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant"
+    },
+    {
+      "Budget": 3090,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "La Roche-Posay Toleriane Double Repair Face Moisturizer"
+    },
+    {
+      "Budget": 1350,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "Hada Labo Gokujyun Premium Hyaluronic Acid Lotion"
+    },
+    {
+      "Budget": 1449,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "Cosrx Advanced Snail 96 Mucin Power Essence"
+    },
+    {
+      "Budget": 3375,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "Purito Centella Green Level Unscented"
+    },
+    {
+      "Budget": 1360,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "The Inkey List Niacinamide"
+    },
+    {
+      "Budget": 8698,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "First Aid Beauty Ultra"
+    },
+    {
+      "Budget": 2445,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "The Inkey List Retinol"
+    },
+    {
+      "Budget": 553,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "New Acne",
+      "Product Suggestion": "Cetaphil Gentle Skin Cleanser"
+    },
+    {
+      "Budget": 553,
+      "Skin Type": "Dry",
+      "Concern #1": "Dry Spots",
+      "Concern #2": "Post-acne marks",
+      "Product Suggestion": "Cetaphil Gentle Skin Cleanser"
+    }
+  ]
+}

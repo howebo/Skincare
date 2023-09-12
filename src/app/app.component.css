@@ -1,0 +1,91 @@
+div {
+  display: center;
+  padding: 40px;
+  margin-left: 200px;
+  font-size: xx-large;
+  color: pink;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-emphasis-color: pink;
+  background: white;
+}
+hr {
+  margin-left: 220px;
+  margin-right: 240px;
+  font: whitesmoke;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  word-wrap: break-word;
+}
+.first {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  word-wrap: break-word;
+}
+.text-box {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: bold;
+  margin: 0 auto;
+  display: block;
+  width: 390px;
+  height: 40px;
+  border-radius: 15px;
+  border-color: grey;
+}
+.second {
+  /* text-align: center; */
+  margin-left: 560px;
+  font-weight: bold;
+  font-size: large;
+  word-wrap: break-word;
+}
+.button {
+  margin-left: 550px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  height: 50px;
+  width: 27%;
+  font-size: large;
+  color: white;
+  background-color: black;
+  border-radius: 15px;
+  border-color: grey;
+}
+.styled-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+}
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}

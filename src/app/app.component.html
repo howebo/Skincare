@@ -1,0 +1,87 @@
+<div>Skin Care</div>
+<hr />
+<br /><br />
+<h1>
+  Generate your next <br />skincare routine in <br />
+  seconds ✨
+</h1>
+<br /><br />
+<h2 class="first">
+  1. Enter your Budget (enter in your local currency).<br />
+</h2>
+<input type="text" placeholder="eg ₹500" class="text-box" #box1 />
+<h2 class="second">2. Select your skin type.</h2>
+<select class="text-box" #box2>
+  <option value="Dry">Dry</option>
+  <option value="Oily">Oily</option>
+  <option value="Combination">Combination</option>
+  <option value="Balanced">Balanced</option>
+</select>
+<h2 class="second">3. Select your top skin concern.</h2>
+<select class="text-box" #box3>
+  <option value="Dry Spots">Dry Spots</option>
+  <option value="Dry Skin">Dry Skin</option>
+  <option value="New Acne">New Acne</option>
+  <option value="Post-acne marks">Post-acne marks</option>
+  <option value="Puffy eyes">Puffy eyes</option>
+  <option value="Rosacea">Rosacea</option>
+  <option value="Make skin firm">Make skin firm</option>
+  <option value="Wrinkles">Wrinkles</option>
+</select>
+<h2 class="second">4. Select your second top skin concern.</h2>
+<select class="text-box" #box4>
+  <option value="Dry Spots">Dry Spots</option>
+  <option value="Dry Skin">Dry Skin</option>
+  <option value="New Acne">New Acne</option>
+  <option value="Post-acne marks">Post-acne marks</option>
+  <option value="Puffy eyes">Puffy eyes</option>
+  <option value="Rosacea">Rosacea</option>
+  <option value="Make skin firm">Make skin firm</option>
+  <option value="Wrinkles">Wrinkles</option></select
+><br /><br />
+<button
+  class="button"
+  (click)="getData(box1.value, box2.value, box3.value, box4.value)"
+>
+  Generate your skincare routine ->
+</button>
+
+<h1 style="color: black; text-align: center" *ngIf="flag && Budget != 0">
+  Your Custom Skin Care Routine
+</h1>
+
+<table
+  class="styled-table"
+  style="
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  "
+  *ngIf="flag && Budget != 0"
+>
+  <thead>
+    <tr>
+      <th scope="col">Budget</th>
+      <th scope="col">Skin Type</th>
+      <th scope="col">Concern #1</th>
+      <th scope="col">Concern #2</th>
+      <th scope="col">Product Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      class="active-row"
+      *ngFor="
+        let data of selectedData
+          | slice : (selectedData.length > 5 ? selectedData.length - 5 : 0);
+        index as i
+      "
+    >
+      <td>₹ {{ data["Budget"] }}/-</td>
+      <td>{{ data["Skin Type"] }}</td>
+      <td>{{ data["Concern #1"] }}</td>
+      <td>{{ data["Concern #2"] }}</td>
+      <td>{{ data["Product Suggestion"] }}</td>
+    </tr>
+  </tbody>
+</table>
